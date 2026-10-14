@@ -1,0 +1,8 @@
+C:\Users\s.featherly\Documents\Unreal Projects\dma226\Content\Characters\Mannequins\Meshes\SKM_Quinn_Simple.uasset
+
+Jump Z Velocity 500 => 1000
+Jump Max hold time 0 => 0.45
+Mass Scale 1 => 10
+Mass Scale (Again) 1 => 10
+Max Walk Speed 600 => 1200
+Global Anim Rate Scale 1 => 10
