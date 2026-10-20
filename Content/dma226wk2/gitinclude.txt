@@ -1,8 +1,14 @@
+C:\Users\s.featherly\Documents\Unreal Projects\dma226\Content\Characters\Mannequins\Meshes\SK_Mannequin.uasset
 C:\Users\s.featherly\Documents\Unreal Projects\dma226\Content\Characters\Mannequins\Meshes\SKM_Quinn_Simple.uasset
+
+Example: https://triplehitcombo.blogspot.com/2024/07/remaking-mario-in-unreal-engine-5-part-4.html
 
 Jump Z Velocity 500 => 1000
 Jump Max hold time 0 => 0.45
+Character Movement/ Mass 100 => 100
 Mass Scale 1 => 10
 Mass Scale (Again) 1 => 10
 Max Walk Speed 600 => 1200
 Global Anim Rate Scale 1 => 10
+
+TODO: this powerup Alt+F4's the game
