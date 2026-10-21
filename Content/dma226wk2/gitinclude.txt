@@ -11,3 +11,7 @@ Max Walk Speed 600 => 1200
 Global Anim Rate Scale 1 => 10
 
 TODO: this powerup Alt+F4's the game
+
+
+for week 4, 
+Jump Z Velocity => 520
