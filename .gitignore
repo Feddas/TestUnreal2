@@ -75,8 +75,8 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Large Starter content
-/Content/Characters/Mannequins*
-/Content/StarterContent/Textures*
+#/Content/Characters/Mannequins*
+#/Content/StarterContent/Textures*
 
 /Builds*
 /zipStruct*
