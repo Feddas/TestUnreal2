@@ -1,6 +1,6 @@
 # TestUnreal2
 
-[Continuing](https://github.com/Feddas/TestUnreal) game creation using Unreal engine during [Bellevue College DMA 226](https://catalog.bellevuecollege.edu/preview_course_nopop.php?catoid=14&coid=56461) in Fall 2026 quarter.
+[Continuing](https://github.com/Feddas/TestUnreal) game creation using Unreal engine during [Bellevue College DMA 226](https://catalog.bellevuecollege.edu/preview_course_nopop.php?catoid=14&coid=56461) in Fall 2026 quarter.  SSH test
 
 # Assignment 3
 
@@ -27,3 +27,4 @@
 # Remotes
 
 https://github.com/Feddas/TestUnreal2
+
