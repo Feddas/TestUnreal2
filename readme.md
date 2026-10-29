@@ -2,6 +2,10 @@
 
 [Continuing](https://github.com/Feddas/TestUnreal) game creation using Unreal engine during [Bellevue College DMA 226](https://catalog.bellevuecollege.edu/preview_course_nopop.php?catoid=14&coid=56461) in Fall 2026 quarter.
 
+# Doc
+
+Documentation notes were taken alongside completing assignments on [how to incorporate git](Doc/BcGitUnreal.md).
+
 # Assignment 3
 
 **Goal**: Add perceivable end of game and iterate using in class feedback from Assignment 2.
