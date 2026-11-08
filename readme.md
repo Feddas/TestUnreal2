@@ -4,7 +4,12 @@
 
 # Doc
 
-Documentation notes were taken alongside completing assignments on [how to incorporate git](Doc/BcGitUnreal.md).
+For digital assignments, notes were taken alongside completing assignments on:
+1. [git with Unreal](Doc/BcGitUnreal.md) - how to use git alongside Unreal engine at BC.
+
+Written assignments:
+1. [Assignment 5](Doc/226Asn5GamePitch.md) - My game pitch
+2. [Assignment 6](Doc/226Asn6ProductionOfGamePitchC.md) - Production plan for student pitch ID#:C
 
 # Assignment 4
 
