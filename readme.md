@@ -8,14 +8,20 @@ For digital assignments, notes were taken alongside completing assignments on:
 1. [git with Unreal](Doc/BcGitUnreal.md) - how to use git alongside Unreal engine at BC.
 
 Written assignments:
-1. [Assignment 5](Doc/226Asn5GamePitch.md) - My game pitch
-2. [Assignment 6](Doc/226Asn6ProductionOfGamePitchC.md) - Production plan for student pitch ID#:C
+1. [Assignment 4a](Doc/226Asn5GamePitch.md) - My game pitch
+2. [Assignment 4b(link submitted for DMA226 used Asn6)](Doc/226Asn6ProductionOfGamePitchC.md) - Production plan for student pitch ID#:C
+
+# Assignment 5
+
+**Goal**: During the last hour of class convert a switch to a "Press E" button to remotely create action in other parts of the level. Such as particle effects, teleporting or spawning actors.
+
+**Where to play**: On a windows device run [TODOdma226wk2.exe in tag asn4's .zip](https://github.com/Feddas/TestUnreal2/releases/download/asn5/TODO.zip)
 
 # Assignment 4
 
 **Goal**: During the last hour of class add switches to remotely create action in other parts of the level. Such as particle effects, teleporting or spawning actors.
 
-**Where to play**: On a windows device run [TODOdma226wk2.exe in tag asn4's .zip](https://github.com/Feddas/TestUnreal2/releases/download/1/ShawnFeatherly_TODO.zip)
+**Where to play**: On a windows device run [dma226wk2.exe in tag asn4's .zip](https://github.com/Feddas/TestUnreal2/releases/download/asn4/ShawnFeatherly_DMA226_Switches.zip)
 
 # Assignment 3
 
