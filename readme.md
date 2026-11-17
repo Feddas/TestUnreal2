@@ -11,11 +11,17 @@ Written assignments:
 1. [Assignment 4a](Doc/226Asn5GamePitch.md) - My game pitch
 2. [Assignment 4b(link submitted for DMA226 used Asn6)](Doc/226Asn6ProductionOfGamePitchC.md) - Production plan for student pitch ID#:C
 
+# Assignment 6
+
+**Goal**: Block out [Pitch C]'s forest level. Don't have any empty voids of nothing-ness in the distance and have some color coding.
+
+**Where to play**: On a windows device run [TODOdma226wk2.exe in tag asn6's .zip](https://github.com/Feddas/TestUnreal2/releases/download/asn6/TODO.zip)
+
 # Assignment 5
 
 **Goal**: During the last hour of class convert a switch to a "Press E" button to remotely create action in other parts of the level. Such as particle effects, teleporting or spawning actors.
 
-**Where to play**: On a windows device run [TODOdma226wk2.exe in tag asn4's .zip](https://github.com/Feddas/TestUnreal2/releases/download/asn5/TODO.zip)
+**Where to play**: On a windows device run [dma226wk2.exe in tag asn5's .zip](https://github.com/Feddas/TestUnreal2/releases/download/asn5/ShawnFeatherly_DMA226_InClassButton.zip)
 
 # Assignment 4
 
